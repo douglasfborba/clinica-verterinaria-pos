@@ -1,8 +1,8 @@
 ## Projeto de Sistema para Clínica Veterinária
 
-### Justificativa
-
 ### Descrição do Produto
+
+A presente aplicação busca permitir o gerenciamento de prontuários eletrônicos de pacientes em clinícas veterinárias, com o intuito de possibilitar aos usuários o recuperação de informações históricas de exames, consultas e procedimentos realizados nos pacientes. Como meta, buscaremos desenvolver uma aplicação segura, com interface amigável e moderma, que facilite a gestão de prontuários em clinícas veterinárias.
 
 ### Escopo
 
@@ -24,5 +24,3 @@ Este projeto abrange as seguintes atividaes:
 - Douglas Ferreira de Borba;
 - Julia Gil dos Santos;
 - Mayra Barbieri Zaia.
-
-### Casos de Uso
